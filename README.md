@@ -1,3 +1,3 @@
 # 4teso20172018_paginaweb
 
-Hola ...
+Hola ... aquest es el meu projecte inicial
